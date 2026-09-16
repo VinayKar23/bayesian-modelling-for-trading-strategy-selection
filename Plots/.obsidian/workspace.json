@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "5fe4a0cee5ee6916",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e16b32bd0fd42bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f5792727eaf4b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bayesian Statistics Project - 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Bayesian Statistics Project - 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "907c9590164fcd29",
+    "type": "split",
+    "children": [
+      {
+        "id": "477e1a3c96f5ed48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d12e7413c0605e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8d4216c77fb7a355",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08c8054fdcced859",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "697a59d355ea99dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de5e4c48d59e4a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afeed0c58b4459c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "8f60a4492485ce9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "3452bd8ba98e56a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0bd6e61b3fc71d3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "47f5792727eaf4b3",
+  "lastOpenFiles": [
+    "Bayesian Statistics Project - 1.md",
+    "MA23BTECH11026_MA23BTECH11025.pdf",
+    "Bayesian Statistics Project - 1.pdf",
+    "Bayesian Stats project 1.md",
+    "README_files/Monte_Carlo.jpg",
+    "README_files/Training_Posterior_Means.md",
+    "README_files/plot_2.jpg",
+    "README_files/Plot_3.jpg",
+    "README_files/README_11_1.png",
+    "README_files/README_24_3.png",
+    "README_files/README_24_4.png",
+    "README_files/README_28_1.png",
+    "README_files/Training_Posterior_Means.jpg",
+    "Stocks data/fetch_data.py.md",
+    "Stocks data",
+    "README_28_1.png",
+    "README_24_4.png"
+  ]
+}
