@@ -1,4 +1,4 @@
-# Bayesian Modelling for Trading Strategy Selection
+# Bayesian Approach for Trading Strategy Selection
 
 A Bayesian statistics project for identifying the most effective trading strategy for an individual stock using probabilistic model comparison and posterior updating.
 
