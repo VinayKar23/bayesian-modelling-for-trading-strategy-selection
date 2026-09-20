@@ -83,6 +83,7 @@ This work demonstrates how Bayesian statistics can be used to evaluate and compa
 ## Authors
 
 - Vinaykarthik V (VinayKar23)
+- Tanmay Banjari (Tanmay11025)
 
 ## Usage
 
